@@ -1,0 +1,6 @@
+fastapi
+pandas
+pydantic
+langchain
+langchain-huggingface
+langchain-community
